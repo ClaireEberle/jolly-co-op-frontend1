@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//claireeberle.github.io/jolly-co-op-frontend1/static/css/main.ec44597c.css",
+    "main.js": "//claireeberle.github.io/jolly-co-op-frontend1/static/js/main.706e00c9.js",
+    "index.html": "//claireeberle.github.io/jolly-co-op-frontend1/index.html",
+    "main.ec44597c.css.map": "//claireeberle.github.io/jolly-co-op-frontend1/static/css/main.ec44597c.css.map",
+    "main.706e00c9.js.map": "//claireeberle.github.io/jolly-co-op-frontend1/static/js/main.706e00c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec44597c.css",
+    "static/js/main.706e00c9.js"
+  ]
+}
